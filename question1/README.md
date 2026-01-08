@@ -34,6 +34,12 @@ Explanation: The minimum possible sum of distances is
 
 ![example 2 explanation](images/q1_ex2_explaination.png)
 
+
+### solution
+#### understanding the problem
+This is known as the **Geometric Median** problem. It is also frequently called the **Fermat-Weber Problem**.
+
+In the world of competitive programming (like LeetCode), you can find this exact problem under the title **"[Best Position for a Service Centre.](https://leetcode.com/problems/best-position-for-a-service-centre/description/) "** <-- click to see the exact problem
  
 
 -------
@@ -62,3 +68,4 @@ exponential T = T_initial * alpha^k vs. linear T = T_initial - beta * k).
 
     -  Stopping Criteria: Max iterations, or temperature falling below a threshold. 
  
+
